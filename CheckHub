@@ -1,0 +1,12 @@
+public class Checkhub
+{
+   private string hubInfo;
+   
+
+   public Check Hub(string info)
+   {
+      hubInfo= info;
+   }
+
+
+}
